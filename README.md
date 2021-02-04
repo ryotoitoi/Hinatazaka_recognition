@@ -15,7 +15,7 @@ devide_train_test.py
 <br>
 ↓
 <br>
-iinflation.py
+inflation.py
 <br>
 ↓
 <br>
